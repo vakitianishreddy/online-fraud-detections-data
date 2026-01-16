@@ -40,5 +40,5 @@ online-fraud-detections-data
 
   Future Scope
    Real-time fraud dashboards
-   Larger datasets
+   Larger datasets.
    Country-wise analysis.
